@@ -34,9 +34,10 @@
 
 ## 📈 GitHub Stats
 
-![Akram's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZennadAkram&show_icons=true&theme=radical)
+![Akram's GitHub Stats](https://github-readme-stats-six-gray-89.vercel.app/api?username=ZennadAkram&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZennadAkram&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-six-gray-89.vercel.app/api/top-langs/?username=ZennadAkram&layout=compact&theme=radical&hide=C)
+
 
 ---
 
