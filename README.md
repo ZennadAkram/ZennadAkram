@@ -28,7 +28,7 @@
 | Project | Description | Tech |
 |---------|------------|------|
 | [E-Commerce App](https://github.com/ZennadAkram/tech-store-backend) | Full-stack Flutter + **Django REST** e-commerce platform with cart, orders, AI recommendations | Flutter, Django REST, PostgreSQL |
-| [Celebrity Chat AI](https://github.com/ZennadAkram/character-ai-frontend) | AI agent system with TTS, memory, and character personalities | Python, DeepSeek, Flutter, SmolAgents |
+| [Celebrity Chat AI](https://github.com/ZennadAkram/celebrity-ai-frontend) | AI agent system with TTS, memory, and character personalities | Python, DeepSeek, Flutter, SmolAgents |
 | [Portfolio Website](https://github.com/ZennadAkram/portfolio) | Personal portfolio showcasing projects, skills, and AI work | Next.js, Tailwind CSS, React |
 ---
 
@@ -45,8 +45,7 @@
 
 - 🌐 Website: [akram-zennad.dev](https://akramzennad.vercel.app)  
 - 📧 Email: zennadakram@gmail.com  
-- 💼 LinkedIn: [Akram Zennad](https://www.linkedin.com/in/akram-zennad-201027378/)  
-- 🐦 Twitter: [@akram_dev](https://twitter.com/akram_dev)  
+- 💼 LinkedIn: [Akram Zennad](https://www.linkedin.com/in/akram-zennad-201027378/) 
 
 ---
 
