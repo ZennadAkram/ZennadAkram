@@ -43,7 +43,7 @@
 
 ## 📫 Connect with Me
 
-- 🌐 Website: [akram-zennad.dev](https://akram-zennad.dev)  
+- 🌐 Website: [akram-zennad.dev](https://akramzennad.vercel.app)  
 - 📧 Email: zennadakram@gmail.com  
 - 💼 LinkedIn: [Akram Zennad](https://www.linkedin.com/in/akram-zennad-201027378/)  
 - 🐦 Twitter: [@akram_dev](https://twitter.com/akram_dev)  
