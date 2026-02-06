@@ -1,35 +1,69 @@
 <h1 align="center">Hi 👋, I'm Akram Zennad</h1>
 <p align="center">
-  Software Engineer | Flutter & Django REST | Applied AI & Agent Systems
+  <strong>Software Engineer</strong> · Flutter & Django REST · Applied AI & Agent Systems
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🖥️ I build **full-stack applications** using **Flutter, React, Django REST, Java, PHP**  
-- 🤖 Experienced with **AI Agents frameworks** like **SmolAgents** and **DeepSeek API** integration  
-- 🌍 Passionate about **scalable apps, AI integrations, and creative projects**  
-- 🌐 Languages: **Arabic (native)**, **English (fluent)**, **French (intermediate)**  
+- 🖥️ Build **production-ready full-stack applications** with **Flutter, React, and Django REST**
+- 🤖 Develop **applied AI systems** using **agent-based frameworks** (SmolAgents) and **DeepSeek API**
+- 🧠 Focus on **clean architecture, scalable APIs, and real-world AI integrations**
+- 🌐 Languages: **Arabic (native)** · **English (fluent)** · **French (intermediate)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Tech Stack
 
-| Frontend | Backend | AI / ML | Database | Languages | Tools |
-|---------|--------|--------|---------|----------|------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | PHP Frameworks | AI Agents: SmolAgents | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-|  |  | DeepSeek API | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | HTML, CSS, JS, TS | Tailwind CSS |
+### Frontend
+- Flutter
+- React
+- HTML, CSS, Tailwind CSS
+
+### Backend
+- Django REST Framework
+- REST APIs
+- Authentication & Authorization
+
+### AI / Automation
+- AI Agents (SmolAgents)
+- DeepSeek API
+- Tool-augmented LLM workflows
+
+### Database
+- PostgreSQL
+- SQL
+- SQLite
+
+### Languages & Tools
+- Python, Dart, JavaScript / TypeScript, Java, PHP
+- Git & GitHub
+- Docker
 
 ---
 
 ## 💼 Featured Projects
 
-| Project | Description | Tech |
-|---------|------------|------|
-| [E-Commerce App](https://github.com/ZennadAkram/tech-store-backend) | Full-stack Flutter + **Django REST** e-commerce platform with cart, orders, AI recommendations | Flutter, Django REST, PostgreSQL |
-| [Celebrity Chat AI ⭐](https://github.com/ZennadAkram/celebrity-ai-frontend) | Full-stack AI agent system , TTS, STT, Django Rest backend, and Flutter frontend. |
-| [Portfolio Website](https://github.com/ZennadAkram/portfolio) | Personal portfolio showcasing projects, skills, and AI work | Next.js, Tailwind CSS, React |
+### ⭐ Celebrity Chat AI (Flagship)
+**Full-stack AI agent platform** with memory, character personas, TTS/STT, and backend tool integration.  
+Built with a **Flutter frontend**, **Django REST backend**, and **DeepSeek-powered agents**.
+
+🔗 https://github.com/ZennadAkram/celebrity-ai-frontend
+
+---
+
+### 🛒 E-Commerce Platform
+Full-stack **Flutter + Django REST** e-commerce system with cart, orders, and AI-assisted recommendations.
+
+🔗 https://github.com/ZennadAkram/tech-store-backend
+
+---
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills, and AI work.
+
+🔗 https://github.com/ZennadAkram/portfolio
+
 ---
 
 ## 📈 GitHub Stats
@@ -38,15 +72,13 @@
 
 ![Top Languages](https://github-readme-stats-six-gray-89.vercel.app/api/top-langs/?username=ZennadAkram&layout=compact&theme=radical&hide=C,Makefile)
 
-
 ---
 
 ## 📫 Connect with Me
-
-- 🌐 Website: [akram-zennad.dev](https://akramzennad.vercel.app)  
+- 🌐 Website: https://akramzennad.vercel.app  
 - 📧 Email: zennadakram@gmail.com  
-- 💼 LinkedIn: [Akram Zennad](https://www.linkedin.com/in/akram-zennad-201027378/) 
+- 💼 LinkedIn: https://www.linkedin.com/in/akram-zennad-201027378/
 
 ---
 
-> “Building intelligent, scalable, and creative apps — one commit at a time.” ⚡
+> *Building intelligent, scalable systems — one commit at a time.* ⚡
