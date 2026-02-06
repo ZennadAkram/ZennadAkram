@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akram Zennad</h1>
 <p align="center">
-  Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer
+  Software Engineer | Flutter & Django REST | Applied AI & Agent Systems
 </p>
 
 ---
@@ -28,13 +28,13 @@
 | Project | Description | Tech |
 |---------|------------|------|
 | [E-Commerce App](https://github.com/ZennadAkram/tech-store-backend) | Full-stack Flutter + **Django REST** e-commerce platform with cart, orders, AI recommendations | Flutter, Django REST, PostgreSQL |
-| [Celebrity Chat AI](https://github.com/ZennadAkram/celebrity-ai-frontend) | AI agent system with TTS, memory, and character personalities | Python, DeepSeek, Flutter, SmolAgents |
+| [Celebrity Chat AI ⭐](https://github.com/ZennadAkram/celebrity-ai-frontend) | Full-stack AI agent system , TTS, STT, Django Rest backend, and Flutter frontend. |
 | [Portfolio Website](https://github.com/ZennadAkram/portfolio) | Personal portfolio showcasing projects, skills, and AI work | Next.js, Tailwind CSS, React |
 ---
 
 ## 📈 GitHub Stats
 
-![Akram's GitHub Stats](https://github-readme-stats-six-gray-89.vercel.app/api?username=ZennadAkram&show_icons=true&theme=radical)
+![Akram's GitHub Stats](https://github-readme-stats-six-gray-89.vercel.app/api?username=ZennadAkram&show_icons=true&theme=radical&hide=C)
 
 ![Top Languages](https://github-readme-stats-six-gray-89.vercel.app/api/top-langs/?username=ZennadAkram&layout=compact&theme=radical&hide=C)
 
