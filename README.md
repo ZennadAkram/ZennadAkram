@@ -29,6 +29,7 @@
 - AI Agents (SmolAgents)
 - DeepSeek API
 - Tool-augmented LLM workflows
+- LangGraph
 
 ### Database
 - PostgreSQL
